@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>779</width>
+    <height>449</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <widget class="QPushButton" name="Botton_1">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>30</y>
+     <width>201</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ONE</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_2">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>30</y>
+     <width>201</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TWO</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_3">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>30</y>
+     <width>201</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>THREE</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_4">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>130</y>
+     <width>201</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>FOUR</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_5">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>130</y>
+     <width>201</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>FIVE</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_6">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>130</y>
+     <width>201</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>SIX</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_7">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>230</y>
+     <width>201</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>SEVEN</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_8">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>230</y>
+     <width>201</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>EIGHT</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_9">
+   <property name="geometry">
+    <rect>
+     <x>500</x>
+     <y>230</y>
+     <width>201</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>NINE</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="savecolor">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>340</y>
+     <width>621</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>SAVE COLOUR</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="loadcolor">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>380</y>
+     <width>621</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>LOAD COLOUR</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
